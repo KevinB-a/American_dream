@@ -1,3 +1,4 @@
 env/*
 conf/*
 .vscode/*
+d00_utils/__pycache__/*
