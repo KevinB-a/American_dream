@@ -1,8 +1,6 @@
 
 import sqlalchemy
-import mysql.connector
 from conf.connexion import mysql_pseudo, mysql_mdp
-
 
 def mysql_connect():
     """function to connect to the database """
