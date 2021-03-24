@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7806d5c-f4be-43dd-84e4-92939be63c9b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/Career_visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/Career_visualization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/Carreer_cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/Carreer_cleaning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/d00_utils/mysql_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/d00_utils/mysql_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/d01_data/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/d01_data/load_data.py" afterDir="false" />
-    </list>
+    <list default="true" id="e7806d5c-f4be-43dd-84e4-92939be63c9b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
